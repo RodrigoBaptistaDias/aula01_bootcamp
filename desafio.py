@@ -17,5 +17,3 @@ valor_do_bonus = CONSTANTE_BONUS + salario_usuario * bonus_usuario
 
 # 5) Imprime a mensagem personalizada incluindo o nome do usuário e o valor do bonus
 print(f"O usuario {nome_usuario} possui o bonus de {valor_do_bonus}")
-
-# Bônus: Quantos bugs e riscos você consegue identificar nesse programa?
